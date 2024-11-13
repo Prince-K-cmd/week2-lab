@@ -32,9 +32,9 @@ To address the challenges, I followed the steps outlined below:
 
 ### Tools Used
 
-- **Python**: For scripting, data manipulation (using Pandas), and data visualization (using Matplotlib and Seaborn).
+- **Python**: For scripting, data manipulation (using Pandas and Numpy), and data visualization (using Matplotlib).
 - **SQL**: To interact with the database, create tables, and run advanced queries.
-- **Database**: MongoDB/MySQL (depending on your setup) to store, retrieve, and manipulate the data.
+- **Database**: PostgreSQL to store, retrieve, and manipulate the data.
 
 ### Learning Outcomes
 
@@ -44,8 +44,8 @@ Through this project, I was able to:
 - Understand and implement database optimization strategies to improve query performance.
 
 ### Conclusion
+Although the project is still in progress, significant groundwork has been laid for the analysis. The foundational steps, such as loading the data, initial analysis, and basic SQL queries, have been completed. The next steps will focus on advanced analysis, optimizing database performance, and finalizing the insights for **ShopEase** to improve their business decisions.
 
-By completing this task, I have successfully helped **ShopEase** analyze its sales data. The insights from the analysis can now be used to improve their business decisions, such as optimizing inventory, targeting the right customer segments, and identifying popular products. Additionally, the database optimizations ensure faster data retrieval, which will support future analysis and decision-making.
 
 ---
 
