@@ -1,6 +1,6 @@
 # LAB FOR WEEK TWO
 
-## ShopEase E-Commerce Data Analysis - Completed Task
+## ShopEase E-Commerce Data Analysis - Partially Completed Task
 
 ### Introduction
 
