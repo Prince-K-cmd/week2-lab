@@ -43,8 +43,6 @@ Through this project, I was able to:
 - Write efficient SQL queries to manipulate and analyze large datasets.
 - Understand and implement database optimization strategies to improve query performance.
 
-### Conclusion
-Although the project is still in progress, significant groundwork has been laid for the analysis. The foundational steps, such as loading the data, initial analysis, and basic SQL queries, have been completed. The next steps will focus on advanced analysis, optimizing database performance, and finalizing the insights for **ShopEase** to improve their business decisions.
 
 
 ---
