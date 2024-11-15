@@ -56,5 +56,11 @@ Although the project is still in progress, significant groundwork has been laid 
 ![sample 2](UI/connect_df_to_postgres.png)
 ![sample 3](UI/connect_df_to_postgres_fn.png)
 ![sample 4](UI/querying_from_db.png)
-![sample 2](UI/sample_data_from_shop_ease_db.png)
+![sample 5](UI/sample_data_from_shop_ease_db.png)
+
+#### Before optimization
+![before optimization](UI/before_optimization.png)
+
+#### After optimization
+![after optimization](UI/after_optimization.png)
 
